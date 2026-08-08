@@ -2,6 +2,7 @@
 
 # 11ty.dev 🕚⚡️🎈🐀
 
+> ⚠️ PRIVATE REPOSITORY — Proprietary and confidential. See [LICENSE](LICENSE).
 - https://www.11ty.dev/
 
 The website and documentation for the [Eleventy static site generator](https://github.com/11ty/eleventy/).
